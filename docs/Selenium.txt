@@ -1,0 +1,4 @@
+existem 3 pontos principais de fragilidade em automação de testes.
+1 - seletor errado, seletor mudou, seletor dinâmico 
+2 - Sincronismo (tipos de esperas - Waits)
+3 - programação exótica 

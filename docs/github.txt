@@ -1,0 +1,9 @@
+o que é um repositório?
+serviço que armazena com segurança tudo que produzimos -> cofre
+possui controle de acesso -> dar e remover permissões para convidados
+possui controle de versão -> máquina do tempo / salvar com comentário (comit)
+possui histórico de versões 
+funServe como um portfolio
+
+www.github.com -> empresa adquirada pela microsoft
+
