@@ -2,3 +2,18 @@ existem 3 pontos principais de fragilidade em automação de testes.
 1 - seletor errado, seletor mudou, seletor dinâmico 
 2 - Sincronismo (tipos de esperas - Waits)
 3 - programação exótica 
+
+Formas de criação e organização dos scripts
+
+1 - Gravação (Captura & Playback / Record & Play)
+2 - Exportação e Importação do código fonte (script simples)
+3 - Criar o Script simples manualmente -> 1 script de teste = 1 arquivo
+4 - Script de cucumber / Behave -> 1 teste = 2 arquivos (.feature em Gherkin e .py que é o script de automação)
+
+
+BDD -> Behavior Driver Devolopement = desenvolvimento direcionado por comportamento.
+-> foco no comportamento esperado do software -> Dito pelo PO (Product Owner)
+
+-> Critério de aceitação -> sintaxe Gherkin que usa para escrita -> Dado; Quando; Então 
+cucumber.io 
+
